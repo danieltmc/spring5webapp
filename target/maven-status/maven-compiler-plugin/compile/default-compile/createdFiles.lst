@@ -1,3 +1,4 @@
+guru/springframework/spring5webapp/controllers/AuthorController.class
 guru/springframework/spring5webapp/controllers/BookController.class
-guru/springframework/spring5webapp/repositories/PublisherRepository.class
 guru/springframework/spring5webapp/domain/Publisher.class
+guru/springframework/spring5webapp/repositories/PublisherRepository.class
