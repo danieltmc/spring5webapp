@@ -1,6 +1,8 @@
+/home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/repositories/PublisherRepository.java
 /home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/repositories/BookRepository.java
 /home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/Spring5webappApplication.java
 /home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/domain/Author.java
 /home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/bootstrap/BootStrapData.java
 /home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/repositories/AuthorRepository.java
+/home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/domain/Publisher.java
 /home/daniel/Projects/mine/spring5webapp/src/main/java/guru/springframework/spring5webapp/domain/Book.java
